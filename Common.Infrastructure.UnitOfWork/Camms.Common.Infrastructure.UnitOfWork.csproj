@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Camms.Common.Infrastructure.Core\Camms.Common.Infrastructure.Base.csproj" />
+    <ProjectReference Include="..\Camms.Common.Infrastructure.Repository\Camms.Common.Infrastructure.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Business\MenuItem\" />
+    <Folder Include="Business\Hamberger\" />
+  </ItemGroup>
+
+</Project>
